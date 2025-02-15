@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un programador Frontend que, desde muy joven, me llamó la atención la programación. Estoy a punto de terminar mi carrera <br>como Analista de Sistemas y actualmente me encuentro trabajando en múltiples proyectos para mi portafolio y mejorando constantemente <br>mis conocimientos en las tecnologías que manejo.
+I am a Frontend programmer who has been interested in programming since a very young age. I am about to complete my degree as a Systems Analyst and am currently working on multiple projects for my portfolio, constantly improving my knowledge of the technologies I work with.
 
 
 ## 🌐 Socials:
